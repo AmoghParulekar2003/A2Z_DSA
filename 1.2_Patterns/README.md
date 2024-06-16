@@ -62,3 +62,12 @@
   * * * * * * *
 * * * * * * * * *
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 7</b></span>
+<pre>
+* * * * * * * * *
+  * * * * * * *
+    * * * * * 
+      * * * 
+        *
+</pre>
