@@ -63,7 +63,7 @@
 * * * * * * * * *
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 7</b></span>
+<span style="font-size:30px;"><b>Pattern 8</b></span>
 <pre>
 * * * * * * * * *
   * * * * * * *
@@ -72,7 +72,7 @@
         *
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 7</b></span>
+<span style="font-size:30px;"><b>Pattern 9</b></span>
 <pre>
         *
       * * * 
@@ -84,4 +84,17 @@
     * * * * *
       * * *
         *
+</pre>
+
+<span style="font-size:30px;"><b>Pattern 10</b></span>
+<pre>
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
 </pre>
