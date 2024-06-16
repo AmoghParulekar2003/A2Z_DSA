@@ -44,3 +44,12 @@
 *  *
 *
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 6</b></span>
+<pre>
+1   2   3   4   5
+1   2   3   4
+1   2   3
+1   2
+1
+</pre>
