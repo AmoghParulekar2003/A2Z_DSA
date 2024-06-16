@@ -1,4 +1,4 @@
-Pattern 1
+<span style="font-size:20px">Pattern 1</span>
 <pre>
 *  *  *  *  *
 *  *  *  *  *
@@ -7,7 +7,7 @@ Pattern 1
 *  *  *  *  *
 </pre>
   
-Pattern 2
+<span style="font-size:20px">Pattern 2</span>
 <pre>
 *
 *  *
@@ -16,7 +16,7 @@ Pattern 2
 *  *  *  *  *
 </pre>
 
-Pattern 3
+<span style="font-size:20px">Pattern 3</span>
 <pre>
 1
 1  2
@@ -25,7 +25,7 @@ Pattern 3
 1  2  3  4  5
 </pre>
 
-Pattern 4
+<span style="font-size:20px">Pattern 4</span>
 <pre>
 1
 2  2
@@ -34,7 +34,7 @@ Pattern 4
 5  5  5  5  5
 </pre>
 
-Pattern 5
+<span style="font-size:20px">Pattern 5</span>
 <pre>
 *  *  *  *  *
 *  *  *  *
