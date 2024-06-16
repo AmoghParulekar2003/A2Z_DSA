@@ -1,4 +1,6 @@
-<span style="font-size:30px;">**Pattern 1**</span>
+# Pattern Examples
+
+<span style="font-size:30px;"><b>Pattern 1</b></span>
 <pre>
 *  *  *  *  *
 *  *  *  *  *
@@ -6,8 +8,8 @@
 *  *  *  *  *
 *  *  *  *  *
 </pre>
-  
-<span style="font-size:30px;">**Pattern 2**</span>
+
+<span style="font-size:30px;"><b>Pattern 2</b></span>
 <pre>
 *
 *  *
@@ -16,7 +18,7 @@
 *  *  *  *  *
 </pre>
 
-<span style="font-size:30px;">**Pattern 3**</span>
+<span style="font-size:30px;"><b>Pattern 3</b></span>
 <pre>
 1
 1  2
@@ -25,7 +27,7 @@
 1  2  3  4  5
 </pre>
 
-<span style="font-size:30px;">**Pattern 4**</span>
+<span style="font-size:30px;"><b>Pattern 4</b></span>
 <pre>
 1
 2  2
@@ -34,11 +36,11 @@
 5  5  5  5  5
 </pre>
 
-<span style="font-size:30px;">**Pattern 5**</span>
+<span style="font-size:30px;"><b>Pattern 5</b></span>
 <pre>
 *  *  *  *  *
 *  *  *  *
 *  *  *
 *  *
-*  
+*
 </pre>
