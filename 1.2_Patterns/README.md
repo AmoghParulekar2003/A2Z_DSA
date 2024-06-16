@@ -1,4 +1,4 @@
-# Pattern Examples
+# Step 1: Lecture 2 -> Patterns
 
 <span style="font-size:30px;"><b>Pattern 1</b></span>
 <pre>
