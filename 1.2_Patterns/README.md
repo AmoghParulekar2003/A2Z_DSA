@@ -98,3 +98,12 @@
 * *
 *
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 11</b></span>
+<pre>
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+</pre>
