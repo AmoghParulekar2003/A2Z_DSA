@@ -107,3 +107,11 @@
 0 1 0 1
 1 0 1 0 1
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 12</b></span>
+<pre>
+1             1
+1 2         2 1
+1 2 3     3 2 1
+1 2 3 4 4 3 2 1
+</pre>
