@@ -124,3 +124,12 @@
 7 8 9 10
 11 12 13 14 15
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 13</b></span>
+<pre>
+A
+A B
+A B C
+A B C D
+A B C D E
+</pre>
