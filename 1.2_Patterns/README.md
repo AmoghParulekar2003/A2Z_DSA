@@ -115,3 +115,12 @@
 1 2 3     3 2 1
 1 2 3 4 4 3 2 1
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 13</b></span>
+<pre>
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+</pre>
