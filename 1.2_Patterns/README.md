@@ -142,3 +142,12 @@ A B C
 A B
 A
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 14</b></span>
+<pre>
+A
+B B
+C C C
+D D D D
+E E E E E
+</pre>
