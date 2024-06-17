@@ -133,3 +133,12 @@ A B C
 A B C D
 A B C D E
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 14</b></span>
+<pre>
+A B C D E
+A B C D
+A B C
+A B
+A
+</pre>
