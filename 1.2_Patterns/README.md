@@ -125,7 +125,7 @@
 11 12 13 14 15
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 13</b></span>
+<span style="font-size:30px;"><b>Pattern 14</b></span>
 <pre>
 A
 A B
@@ -134,7 +134,7 @@ A B C D
 A B C D E
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 14</b></span>
+<span style="font-size:30px;"><b>Pattern 15</b></span>
 <pre>
 A B C D E
 A B C D
@@ -143,11 +143,19 @@ A B
 A
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 14</b></span>
+<span style="font-size:30px;"><b>Pattern 16</b></span>
 <pre>
 A
 B B
 C C C
 D D D D
 E E E E E
+</pre>
+
+<span style="font-size:30px;"><b>Pattern 17</b></span>
+<pre>
+      A
+    A B A
+  A B C B A
+A B C D C B A
 </pre>
