@@ -168,3 +168,17 @@ C D E
 B C D E
 A B C D E
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 19</b></span>
+<pre>
+* * * * * * * * * *
+* * * *     * * * *
+* * *         * * *
+* *             * *
+*                 *
+*                 *
+* *             * *
+* * *         * * *
+* * * *     * * * *
+* * * * * * * * * * 
+</pre>
