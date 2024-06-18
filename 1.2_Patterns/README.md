@@ -195,3 +195,14 @@ A B C D E
 * *             * *
 *                 *
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 20</b></span>
+<pre>
+* * * *
+
+*     *
+
+*     *
+
+* * * *
+</pre>
