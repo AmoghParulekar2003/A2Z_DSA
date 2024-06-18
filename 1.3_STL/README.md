@@ -8,7 +8,9 @@ Divided in 4 parts:
 
 # Pairs
 <pre>
-pair<int, int> p1 = {1,3}
-pair<int, <int, int>> p2 = {1, {2,3}}
-pair<int,int> p3[] = {{1,2}, {3,4}, {5,6}}
+pair p1 = {1,3}
+pair p2 = {1, {2,3}}
+pair p3[] = {{1,2}, {3,4}, {5,6}}
 </pre>
+
+Use p1.first or p1.second to access the elements
