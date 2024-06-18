@@ -8,5 +8,7 @@ Divided in 4 parts:
 
 # Pairs
 <pre>
-pair<int, int> p = {1,3}
+pair<int, int> p1 = {1,3}
+pair<int, <int, int>> p2 = {1, {2,3}}
+pair<int,int> p3[] = {{1,2}, {3,4}, {5,6}}
 </pre>
