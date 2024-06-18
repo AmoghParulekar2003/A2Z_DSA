@@ -159,3 +159,12 @@ E E E E E
   A B C B A
 A B C D C B A
 </pre>
+
+<span style="font-size:30px;"><b>Pattern 18</b></span>
+<pre>
+E
+D E
+C D E
+B C D E
+A B C D E
+</pre>
