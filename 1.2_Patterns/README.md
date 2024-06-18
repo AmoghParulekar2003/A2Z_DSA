@@ -196,7 +196,7 @@ A B C D E
 *                 *
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 20</b></span>
+<span style="font-size:30px;"><b>Pattern 21</b></span>
 <pre>
 * * * *
 
@@ -207,7 +207,7 @@ A B C D E
 * * * *
 </pre>
 
-<span style="font-size:30px;"><b>Pattern 20</b></span>
+<span style="font-size:30px;"><b>Pattern 22</b></span>
 <pre>
 4 4 4 4 4 4 4
 4 3 3 3 3 3 4
