@@ -46,3 +46,12 @@ dq.front();
 dq.back();
 </pre>
 rest all functions are same as vectors
+
+# Stacks
+<pre>
+stack st;   //initialize
+st.push();  //push element
+st.pop();   //pop elememt
+st.top();   //points to top element
+</pre>
+Follows Last In First Out (LIFO)
