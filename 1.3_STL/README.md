@@ -73,6 +73,7 @@ pq.push();          //push element
 pq.pop();           //pop element
 pq.top();           //top element
 
-priority_queue<<int, vector<int>, greater<int>>>    //initialize (min heap)
+priority_queue(int, vector(int), greater(int))    //initialize (min heap)
 </pre>
+p.s. use "<>" in place of () in code
 Just like queues, but are stores values in heap i.e the values will be stored in ascending or descending order
