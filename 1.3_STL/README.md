@@ -29,3 +29,11 @@ v.swap();        //swap elements to two vectors
 v.clear();       //empty the entire vector
 v.empty()        //returns boolean value whether vector is empty of or not
 </pre>
+
+# Lists
+<pre>
+list ls;            //initialize list
+ls.push_front();    //push element at front of list
+ls.emplace_front(); //emplace element at front of list
+</pre>
+rest all functions are same as vectors
