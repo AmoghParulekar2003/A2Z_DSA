@@ -55,3 +55,13 @@ st.pop();   //pop elememt
 st.top();   //points to top element
 </pre>
 Follows Last In First Out (LIFO)
+
+# Queues
+<pre>
+queue q;    //initialize
+q.push();   //push element
+q.pop();    //pop first element
+q.front();  //points to first element
+q.back();   //points to last element
+</pre>
+Follows First In First Out (FIFO)
