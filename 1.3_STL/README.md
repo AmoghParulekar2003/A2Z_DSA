@@ -14,3 +14,18 @@ pair p3[] = {{1,2}, {3,4}, {5,6}}
 </pre>
 
 Use p1.first or p1.second to access the elements
+
+
+# Vectors
+<pre>
+vector v;        //initialize vector
+v.push_back(3);  //push element at end of vector
+v.pop_back();    //pop the last element
+v.begin();       //points to the first element of vector
+v.end();         //points to the space after the last element of vector
+v.erase();       //deletes the element
+v.insert();      // insert the element
+v.swap();        //swap elements to two vectors
+v.clear();       //empty the entire vector
+v.empty()        //returns boolean value whether vector is empty of or not
+</pre>
