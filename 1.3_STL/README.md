@@ -65,3 +65,14 @@ q.front();  //points to first element
 q.back();   //points to last element
 </pre>
 Follows First In First Out (FIFO)
+
+# Priority Queues
+<pre>
+priority_queue pq;  //initialize (max heap)
+pq.push();          //push element
+pq.pop();           //pop element
+pq.top();           //top element
+
+priority_queue<<int, vector<int>, greater<int>>>    //initialize (min heap)
+</pre>
+Just like queues, but are stores values in heap i.e the values will be stored in ascending or descending order
