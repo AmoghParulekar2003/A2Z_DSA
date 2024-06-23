@@ -37,3 +37,12 @@ ls.push_front();    //push element at front of list
 ls.emplace_front(); //emplace element at front of list
 </pre>
 rest all functions are same as vectors
+
+# Deques
+<pre>
+deque dq;
+dq.pop_front();
+dq.front();
+dq.back();
+</pre>
+rest all functions are same as vectors
