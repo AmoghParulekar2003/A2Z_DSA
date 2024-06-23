@@ -77,3 +77,12 @@ priority_queue(int, vector(int), greater(int))    //initialize (min heap)
 </pre>
 p.s. use "<>" in place of () in code
 Just like queues, but are stores values in heap i.e the values will be stored in ascending or descending order
+
+# Sets
+<pre>
+set st;        //initialize
+st.insert();   //insert element in set
+st.erase();    //erase element from set
+st.find();     //find element in set
+</pre>
+Set is a container where it only stores Unique values and the values are in sorted order
