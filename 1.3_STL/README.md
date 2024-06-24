@@ -111,3 +111,12 @@ it.first();   //iterator's 1st element (key)
 it.second();  //iterator's 2nd element (value)
 </pre>
 Data is stored in (key, value) pair where key is unique and in sorted order like set.
+
+# Unordered maps and Multimaps
+They are like multisets and unordered sets but for maps.
+
+# Some important STL algorithms/functions
+1. Sort();             //sort an array/string
+2. builtin_popcount(); //returns number of set bits
+3. next_permutation(); //returns next dictionary permutation eg. 123 -> 132 -> 213...
+4. *max_element()  //returns the max element from an array
