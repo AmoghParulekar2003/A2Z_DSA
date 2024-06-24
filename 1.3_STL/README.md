@@ -96,3 +96,9 @@ ms.find();     //search
 ms.count()     //count the occurence
 </pre>
 Multisets are basically sets but can have multiple same values i.e it does not store unique values only. But they are sorted.
+
+# Unordered sets
+<pre>
+unordered_set os;
+</pre>
+Upper bound and lower bound functions does not work...rest all functions work. Unordered sets and like regular sets which stores unique values but values are not sorted
