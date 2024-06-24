@@ -86,3 +86,13 @@ st.erase();    //erase element from set
 st.find();     //find element in set
 </pre>
 Set is a container where it only stores Unique values and the values are in sorted order
+
+# Multisets
+<pre>
+multiset ms;   //initialize
+ms.insert();   //insert
+ms.erase();    //delete
+ms.find();     //search
+ms.count()     //count the occurence
+</pre>
+Multisets are basically sets but can have multiple same values i.e it does not store unique values only. But they are sorted.
