@@ -102,3 +102,12 @@ Multisets are basically sets but can have multiple same values i.e it does not s
 unordered_set os;
 </pre>
 Upper bound and lower bound functions does not work...rest all functions work. Unordered sets and like regular sets which stores unique values but values are not sorted
+
+# Maps
+<pre>
+map mp;       //initialize
+mp.insert();  //insert elements
+it.first();   //iterator's 1st element (key)
+it.second();  //iterator's 2nd element (value)
+</pre>
+Data is stored in (key, value) pair where key is unique and in sorted order like set.
