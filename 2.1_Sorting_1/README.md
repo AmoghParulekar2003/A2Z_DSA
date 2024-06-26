@@ -11,8 +11,8 @@ for(i = 0; i <= n-2; i++) {
     swap(arr[min], arr[i]);
 }
 </pre>
-
-1. Outer For Loop -> Marks the sorted array's last element. Iterate the loop until the second last element of array as automatically las element will be sorted.
+<br>
+1. Outer For Loop -> Marks the sorted array's last element. Iterate the loop until the second last element of array as automatically last element will be sorted.
 <br>
 2. Lets consider ith element as min element
 <br>
