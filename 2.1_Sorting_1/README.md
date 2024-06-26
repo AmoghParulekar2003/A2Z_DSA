@@ -46,7 +46,7 @@ for(i = 0; i < n; i++ ) {
         j--
     }
 }
-<pre>
+</pre>
 <br>
 1. Outer For Loop -> Iterate over array for every element for swapping/checking
 <br>
