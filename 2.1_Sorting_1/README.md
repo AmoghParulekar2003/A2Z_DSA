@@ -35,3 +35,21 @@ for(i = n-1; i > 0; i--) {
 1. Outer For Loop -> Marks the sorted part of array's 1st element. Iterate the loop until it reaches the 1st element which gets sorted automatically.
 <br>
 2. Inner For Loop -> Iterate through the unsorted part of array and check if the second element is greater than first, if false, swap them.
+
+# Insertion Sort
+Basic idea is to "INSERT" the element into its correct position in the array.
+<pre>
+for(i = 0; i < n; i++ ) {
+    j = i;
+    while(j > 0 && a[j-1] > a[j]) {
+        swap(a[j-1], a[j])
+        j--
+    }
+}
+<pre>
+<br>
+1. Outer For Loop -> Iterate over array for every element for swapping/checking
+<br>
+2. Initialize j = i
+<br>
+3. Inner While loop -> Check if the ith element is in the correct position by comparing it with its left side element. If left element is greater swap and continue till the left element is smaller than the ith element.
