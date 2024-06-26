@@ -12,12 +12,12 @@ for(i = 0; i <= n-2; i++) {
 }
 </pre>
 
-Outer For Loop -> Marks the sorted array's last element. Iterate the loop until the second last element of array as automatically las element will be sorted.
+1. Outer For Loop -> Marks the sorted array's last element. Iterate the loop until the second last element of array as automatically las element will be sorted.
 <br>
-Lets consider ith element as min element
+2. Lets consider ith element as min element
 <br>
-Inner For Loop -> Iterates through the unsorted array to find the minimum element.
+3. Inner For Loop -> Iterates through the unsorted array to find the minimum element.
 <br>
-Mark the jth element as min element
+4. Mark the jth element as min element
 <br>
-swap the ith the element with the marked min element.
+5. swap the ith the element with the marked min element.
