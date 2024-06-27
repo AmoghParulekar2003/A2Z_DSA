@@ -21,6 +21,8 @@ for(i = 0; i <= n-2; i++) {
 4. Mark the jth element as min element
 <br>
 5. swap the ith the element with the marked min element.
+<br>
+Time Complexity -> Worst Case, Average Case, Best Case : O(n^2)
 
 # Bubble Sort
 Basic idea is to compare adjacent elements forming a "BUBBLE" and keep the larger element on the right side
@@ -35,6 +37,8 @@ for(i = n-1; i > 0; i--) {
 1. Outer For Loop -> Marks the sorted part of array's 1st element. Iterate the loop until it reaches the 1st element which gets sorted automatically.
 <br>
 2. Inner For Loop -> Iterate through the unsorted part of array and check if the second element is greater than first, if false, swap them.
+<br>
+Time Complexity -> Worst Case, Average Case : O(n^2), Best Case : O(n)
 
 # Insertion Sort
 Basic idea is to "INSERT" the element into its correct position in the array.
@@ -53,3 +57,5 @@ for(i = 0; i < n; i++ ) {
 2. Initialize j = i
 <br>
 3. Inner While loop -> Check if the ith element is in the correct position by comparing it with its left side element. If left element is greater swap and continue till the left element is smaller than the ith element.
+<br>
+Time Complexity -> Worst Case, Average Case : O(n^2), Best Case : O(n)
